@@ -1,0 +1,16 @@
+body{
+    background-color:#EAF6F6;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 15px;
+    width: 12%;
+    border-color:rgba(148, 221, 221, 0.69)
+}
+h1,h2,h3{
+    color:teal;
+}
+.circleCrop{
+    border-radius: 50%;
+}
